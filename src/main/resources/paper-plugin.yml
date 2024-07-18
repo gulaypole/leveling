@@ -1,0 +1,4 @@
+name: leveling
+version: '${version}'
+main: dkn.minecraft.Leveling
+api-version: '1.20'
